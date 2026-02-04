@@ -169,3 +169,4 @@ Text
 Fetched Products: [{"id":101,"name":"Laptop","price":55000}]
 ✔ MICROSERVICE COMMUNICATION SUCCESS 💥
 #OUTPUTS
+https://i.supaimg.com/f8488120-da49-4a56-ad0e-861dfa66f2c6.jpg
